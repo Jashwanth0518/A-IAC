@@ -1,0 +1,5 @@
+Name: Alice Smith
+Roll No: SRU12345
+Department: Computer Science
+Name: & C:/Users/savin/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/savin/OneDrive/Desktop/jashwanth ai/lab test 1.py", Roll No: , Department: 
+Name: vvr, Roll No: 345, Department: rrr
